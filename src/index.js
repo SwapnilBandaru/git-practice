@@ -1,2 +1,2 @@
 console.log("index.js")
-console.log("vsdersion 1")       
+console.log("vsdersion 2")       
